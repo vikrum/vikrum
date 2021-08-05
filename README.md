@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+## Welcome to my projects ✨✨✨
+
+🛡 [Gold Fig](https://www.goldfiglabs.com/products/checkup/) is security and scanning made easy for your AWS infrastructure.
+
+📝 [[goldfiglabs/introspector]](https://github.com/goldfiglabs/introspector) Introspector is a schema and set of tools for using SQL to query cloud infrastructure.
+
+🔎 [[goldfiglabs/rpCheckup]](https://github.com/goldfiglabs/rpCheckup) rpCheckup is a resource policy scanner for your AWS infra. 
+
+🎨 [[vikrum/kidpix]](https://github.com/vikrum/kidpix) JSKIDPIX v1.0.2021 is a JS/HTML clean-room reimplementation of Kid Pix 1.0.
 
 <!--
 **vikrum/vikrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
