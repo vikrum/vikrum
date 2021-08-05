@@ -9,6 +9,12 @@
 
 🎨 [[vikrum/kidpix]](https://github.com/vikrum/kidpix) JSKIDPIX v1.0.2021 is a JS/HTML clean-room reimplementation of Kid Pix 1.0.
 
+### Elsewhere
+
+🚧 https://5f5.org/ - Cyberspace Homepage Superhighway
+
+🔑 https://keybase.io/vikrum - Keybase
+
 <!--
 **vikrum/vikrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
