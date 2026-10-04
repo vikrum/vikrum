@@ -5,5 +5,3 @@
 ### Elsewhere
 
 🚧 &nbsp; https://5f5.org/ - Cyberspace Homepage Superhighway
-
-🔑 &nbsp; https://keybase.io/vikrum - Keybase
