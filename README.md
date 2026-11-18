@@ -1,7 +1,1 @@
-## Hi there 👋 Welcome to my endeavors & projects ✨✨✨
-
-🎨 &nbsp; [[vikrum/kidpix]](https://github.com/vikrum/kidpix) JSKIDPIX v1.0.2021 is a JS/HTML clean-room reimplementation of Kid Pix 1.0.
-
-### Elsewhere
-
-🚧 &nbsp; https://5f5.org/ - Cyberspace Homepage Superhighway
+<img width="1008" height="1561" alt="image" src="https://github.com/user-attachments/assets/d688ac7a-3ff3-427a-824f-165722c10a09" />
